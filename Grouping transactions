@@ -9,12 +9,12 @@ contract Utils {
 
 contract ContractA {
     function foo(uint arg) external {
-         //do something;
+         //do something
     }
 }
 
 contract ContractB {
     function bar(uint arg) external {
-         //do something;
+         //do something else
     }
 }
